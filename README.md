@@ -1,8 +1,8 @@
-
-```markdown
 # Fingerprint Recognition Algorithm
 
 This repository contains an implementation of a fingerprint recognition algorithm. The algorithm is designed for biometric authentication purposes and aims to provide accurate and efficient fingerprint recognition.
+```markdown
+
 
 ## Features
 
