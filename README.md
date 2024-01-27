@@ -2,6 +2,8 @@
 
 This repository contains an implementation of a fingerprint recognition algorithm. The algorithm is designed for biometric authentication purposes and aims to provide accurate and efficient fingerprint recognition.
 
+[Fingerprint Recognition Algorithm - Project Documentation PDF](https://drive.google.com/file/d/1GfAqu8RAq_tbaSXk0QhtnlypXYnDHe6o/view)
+
 ## Features
 
 - Fingerprint image preprocessing
